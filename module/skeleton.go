@@ -3,6 +3,7 @@ package module
 import (
 	"github.com/kevincoding525/leaf/chanrpc"
 	"github.com/kevincoding525/leaf/console"
+	"github.com/kevincoding525/leaf/g"
 	"github.com/kevincoding525/leaf/timer"
 	"time"
 )
