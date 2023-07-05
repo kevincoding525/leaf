@@ -1,11 +1,11 @@
 package leaf
 
 import (
-	"github.com/kevincoding525/leaf/cluster"
-	"github.com/kevincoding525/leaf/conf"
-	"github.com/kevincoding525/leaf/console"
-	"github.com/kevincoding525/leaf/log"
-	"github.com/kevincoding525/leaf/module"
+	"leaf/cluster"
+	"leaf/conf"
+	"leaf/console"
+	"leaf/log"
+	"leaf/module"
 	"os"
 	"os/signal"
 )

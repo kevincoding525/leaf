@@ -1,8 +1,8 @@
 package g_test
 
 import (
-	"github.com/kevincoding525/leaf/go"
 	"fmt"
+	"leaf/go"
 	"time"
 )
 

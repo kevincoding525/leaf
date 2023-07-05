@@ -2,7 +2,8 @@ package mongodb_test
 
 import (
 	"fmt"
-	"github.com/kevincoding525/leaf/db/mongodb"
+	"gopkg.in/mgo.v2"
+	"leaf/db/mongodb"
 )
 
 func Example() {

@@ -1,7 +1,7 @@
 package log_test
 
 import (
-	"github.com/kevincoding525/leaf/log"
+	"leaf/log"
 	l "log"
 )
 

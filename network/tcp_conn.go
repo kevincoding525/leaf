@@ -1,7 +1,7 @@
 package network
 
 import (
-	"github.com/kevincoding525/leaf/log"
+	"leaf/log"
 	"net"
 	"sync"
 )
